@@ -1,4 +1,4 @@
-![Profile Picture](https://www.facebook.com/photo/?fbid=348178654198602&set=a.102912225391914)
+![Profile Picture](https://avatars.githubusercontent.com/u/153160355?v=4)
 
 
 # Hi there, I'm Ashiqur Rahman 👋
