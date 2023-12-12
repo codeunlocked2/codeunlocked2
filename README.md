@@ -1,7 +1,7 @@
 
 # Hi there, I'm Ashiqur Rahman 👋
 
-I'm a passionate Frontend web developer based in Bangladesh. I specialize in building modern and responsive web applications using the following technologies:
+I'm a passionate Frontend web developer from Bangladesh. I specialize in building modern and responsive web applications using the following technologies:
 
 - HTML
 - CSS
