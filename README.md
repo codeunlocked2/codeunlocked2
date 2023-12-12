@@ -1,3 +1,6 @@
+![Profile Picture](https://www.facebook.com/photo/?fbid=348178654198602&set=a.102912225391914)
+
+
 # Hi there, I'm Ashiqur Rahman 👋
 
 I'm a passionate Frontend web developer based in Bangladesh. I specialize in building modern and responsive web applications using the following technologies:
@@ -9,13 +12,13 @@ I'm a passionate Frontend web developer based in Bangladesh. I specialize in bui
 - React.js
 - Next.js
 
-https://avatars.githubusercontent.com/u/153160355?v=4
+
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-linkedin-profile/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/your-twitter-handle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://your-portfolio-website.com)
+[![Facebook](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://www.linkedin.com/in/your-linkedin-profile/](https://www.facebook.com/nextdev2/))
+[![Instagram](https://img.shields.io/badge/Twitter-Follow-blue)]([https://twitter.com/your-twitter-handle](https://www.instagram.com/code_unlocked/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)]([https://your-portfolio-website.com](https://code-unlocked.vercel.app/))
 
 ## GitHub Stats
 
