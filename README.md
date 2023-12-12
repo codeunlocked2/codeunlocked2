@@ -9,7 +9,7 @@ I'm a passionate Frontend web developer based in Bangladesh. I specialize in bui
 - React.js
 - Next.js
 
-(http://localhost:3000/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fashiqbroupdate.c926a35f.png&w=1080&q=75)
+https://avatars.githubusercontent.com/u/153160355?v=4
 
 ## Connect with Me
 
