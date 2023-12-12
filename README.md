@@ -1,5 +1,3 @@
-![Profile Picture](https://avatars.githubusercontent.com/u/153160355?v=4)
-
 
 # Hi there, I'm Ashiqur Rahman 👋
 
